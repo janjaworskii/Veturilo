@@ -1,0 +1,50 @@
+start_place,end_place,duration,start_time,end_time,bike_type,start_date,end_date,start_coords,end_coords,distance
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,4 min,13:04:00,13:08:00,Standard 4G,2025-03-06,2025-03-06,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,4 min,12:42:00,12:46:00,Standard 4G,2025-03-07,2025-03-07,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Plac Krasińskich,Plac Krasińskich,1 min,13:31:00,13:32:00,Standard 4G,2025-03-10,2025-03-10,"52.248862, 21.005578","52.248862, 21.005578",1 m
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,6 min,13:32:00,13:38:00,Standard 4G,2025-03-10,2025-03-10,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,7 min,13:31:00,13:38:00,Standard 4G,2025-03-10,2025-03-10,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Krakowskie Przedmieście - Traugutta,Plac Krasińskich,4 min,09:37:00,09:41:00,Standard 4G,2025-03-27,2025-03-27,"52.239374, 21.016657","52.248862, 21.005578",1.5 km
+Metro Młociny,Świderska - Świętosławskiego,14 min,13:29:00,13:43:00,Standard 4G,2025-03-27,2025-03-27,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,4 min,12:24:00,12:28:00,Standard 4G,2025-03-28,2025-03-28,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Świderska - Świętosławskiego,Metro Młociny,15 min,09:43:00,09:57:00,Standard 4G,2025-03-31,2025-03-31,"52.316765, 20.95171","52.290974, 20.929556",4.2 km
+Rondo Jazdy Polskiej,Stefana Banacha - UW,8 min,15:58:00,16:06:00,Standard 4G,2025-03-31,2025-03-31,"52.217486, 21.014295","52.210772, 20.984756",2.5 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,6 min,11:10:00,11:16:00,Standard 4G,2025-04-15,2025-04-15,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Świderska - Świętosławskiego,Metro Młociny,15 min,16:43:00,16:58:00,Standard 4G,2025-04-20,2025-04-20,"52.316765, 20.95171","52.290974, 20.929556",4.2 km
+Świderska - Świętosławskiego,Metro Młociny,15 min,16:44:00,16:59:00,Elektryczny,2025-04-20,2025-04-20,"52.316765, 20.95171","52.290974, 20.929556",4.2 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,5 min,13:06:00,13:10:00,Standard 4G,2025-04-28,2025-04-28,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Krakowskie Przedmieście - Traugutta,Metro Dworzec Gdański,13 min,16:11:00,16:24:00,Standard 4G,2025-04-28,2025-04-28,"52.239374, 21.016657","52.257602, 20.994498",3.5 km
+Rondo Jazdy Polskiej,Stefana Banacha - UW,8 min,15:50:00,15:58:00,Standard 4G,2025-05-05,2025-05-05,"52.217486, 21.014295","52.210772, 20.984756",2.5 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,5 min,13:01:00,13:07:00,Standard 4G,2025-05-12,2025-05-12,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Ochota-Ratusz,Metro Rondo Daszyńskiego,4 min,15:30:00,15:34:00,Standard 4G,2025-05-14,2025-05-14,"52.222216, 20.986629","52.229707, 20.983223",1.2 km
+Ochota-Ratusz,Metro Rondo Daszyńskiego,4 min,21:34:00,21:38:00,Elektryczny,2025-05-17,2025-05-17,"52.222216, 20.986629","52.229707, 20.983223",1.2 km
+Plac Krasińskich,Metro Nowy Świat - Uniwersytet,6 min,12:31:00,12:37:00,Standard 4G,2025-05-23,2025-05-23,"52.248862, 21.005578","52.236884, 21.017543",1.7 km
+Metro Młociny,Świderska - Świętosławskiego,12 min,22:20:00,22:33:00,Standard 4G,2025-05-25,2025-05-25,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,5 min,13:00:00,13:06:00,Standard 4G,2025-05-26,2025-05-26,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Lipowa - Dobra,Park Kępa Potocka,21 min,16:10:00,16:31:00,Standard 4G,2025-05-26,2025-05-26,"52.241841, 21.024114","52.28794, 20.978694",6.7 km
+Świderska - Świętosławskiego,Metro Młociny,17 min,07:21:00,07:38:00,Standard 4G,2025-05-27,2025-05-27,"52.316765, 20.95171","52.290974, 20.929556",4.2 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,4 min,12:59:00,13:03:00,Standard 4G,2025-05-29,2025-05-29,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Mokotowska - Piękna,Metro Nowy Świat - Uniwersytet,10 min,15:07:00,15:17:00,Standard 4G,2025-05-29,2025-05-29,"52.223815, 21.020786","52.236884, 21.017543",2.5 km
+Plac Krasińskich,Plac Krasińskich,0 min,09:31:00,09:31:00,Standard 4G,2025-05-30,2025-05-30,"52.248862, 21.005578","52.248862, 21.005578",1 m
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,4 min,12:19:00,12:24:00,Standard 4G,2025-05-30,2025-05-30,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Metro Rondo Daszyńskiego,Okopowa - Anielewicza,9 min,15:02:00,15:11:00,Standard 4G,2025-06-05,2025-06-05,"52.229707, 20.983223","52.244114, 20.977868",1.8 km
+Okopowa - Anielewicza,Świderska - Świętosławskiego,43 min,15:11:00,15:55:00,Standard 4G,2025-06-05,2025-06-05,"52.244114, 20.977868","52.316765, 20.95171",11.9 km
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,5 min,12:24:00,12:28:00,Standard 4G,2025-06-06,2025-06-06,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+al. Reymonta - Conrada,Świderska - Świętosławskiego,36 min,22:52:00,23:29:00,Standard 4G,2025-06-13,2025-06-13,"52.270941, 20.932627","52.316765, 20.95171",7.2 km
+al. Reymonta - Conrada,Świderska - Świętosławskiego,36 min,22:53:00,23:29:00,Standard 4G,2025-06-13,2025-06-13,"52.270941, 20.932627","52.316765, 20.95171",7.2 km
+Blue City,Chrościckiego – al. 4 Czerwca 1989 r.,17 min,15:03:00,15:19:00,Standard 4G,2025-07-23,2025-07-23,"52.213254, 20.954946","52.209302, 20.893987",6.7 km
+Modlińska - Żerańska,Świderska - Świętosławskiego,14 min,16:12:00,16:26:00,Standard 4G,2025-10-02,2025-10-02,"52.303198, 20.989167","52.316765, 20.95171",3.4 km
+Metro Młociny,Świderska - Świętosławskiego,12 min,16:43:00,16:56:00,Standard 4G,2025-10-05,2025-10-05,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Krakowskie Przedmieście - Traugutta,Plac Krasińskich,4 min,13:03:00,13:07:00,Standard 4G,2025-10-07,2025-10-07,"52.239374, 21.016657","52.248862, 21.005578",1.5 km
+Krakowskie Przedmieście - Traugutta,Krakowskie Przedmieście - Traugutta,1 min,11:18:00,11:19:00,Standard 4G,2025-10-10,2025-10-10,"52.239374, 21.016657","52.239374, 21.016657",1 m
+Strefa zwrotu roweru,Plac Krasińskich,4 min,11:23:00,11:27:00,Standard 4G,2025-10-17,2025-10-17,,"52.248862, 21.005578",
+Plac Krasińskich,Krakowskie Przedmieście - Traugutta,6 min,15:15:00,15:21:00,Standard 4G,2025-10-21,2025-10-21,"52.248862, 21.005578","52.239374, 21.016657",1.8 km
+Plac Krasińskich,Świderska - Świętosławskiego,31 min,14:53:00,15:24:00,Standard 4G,2025-10-22,2025-10-22,"52.248862, 21.005578","52.316765, 20.95171",11.3 km
+Krakowskie Przedmieście - Traugutta,Plac Krasińskich,4 min,13:10:00,13:15:00,Standard 4G,2025-10-28,2025-10-28,"52.239374, 21.016657","52.248862, 21.005578",1.5 km
+Miodowa,Plac Krasińskich,3 min,07:52:00,07:55:00,Standard 4G,2025-10-29,2025-10-29,"52.246541, 21.011265","52.248862, 21.005578",0.5 km
+Metro Młociny,Świderska - Świętosławskiego,13 min,19:13:00,19:26:00,Standard 4G,2025-11-03,2025-11-03,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Krakowskie Przedmieście - Trębacka,Świderska - Świętosławskiego,39 min,10:01:00,10:41:00,Standard 4G,2025-11-04,2025-11-04,"52.243578, 21.01409","52.316765, 20.95171",11.9 km
+Metro Młociny,Świderska - Świętosławskiego,13 min,11:36:00,11:49:00,Standard 4G,2025-11-06,2025-11-06,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Andersa - Długa,Krakowskie Przedmieście - Traugutta,5 min,13:14:00,13:19:00,Standard 4G,2025-11-07,2025-11-07,"52.244973, 21.001274","52.239374, 21.016657",1.6 km
+Metro Młociny,Świderska - Świętosławskiego,14 min,20:12:00,20:26:00,Standard 4G,2025-11-18,2025-11-18,"52.290974, 20.929556","52.316765, 20.95171",4.2 km
+Krakowskie Przedmieście - Traugutta,Plac Krasińskich,4 min,11:21:00,11:25:00,Standard 4G,2025-11-21,2025-11-21,"52.239374, 21.016657","52.248862, 21.005578",1.5 km
